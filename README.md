@@ -1,6 +1,6 @@
 # Introduction
 
-This is a collection of some (awesome) resources, mostly focused on front-end web development.
+This is a collection of some (awesome) resources, mostly focused on UX Design, front-end web development and SEO.
 
 # Table of contents
 
@@ -35,9 +35,6 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Roadmaps](#Roadmaps)
   - [Videos](#Videos)
   - [Websites](#Websites)
-- [React](#React)
-  - [Articles](#Articles)
-  - [Roadmaps](#Roadmaps)
 - [Other-Content](#Other-Content)
   - [Algorithm-Challenges](#Algorithm-Challenges)
   - [Articles](#Articles)
@@ -45,11 +42,8 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Books](#Books)
   - [Code-Formatters](#Code-Formatters)
   - [Documentations](#Documentations)
-  - [Front-End-Challenges](#Front-End-Challenges)
-  - [Interactive Games](#Interactive-Games)
   - [Reddit-Subreddits](#Reddit-Subreddits)
   - [Roadmaps](#Roadmaps)
-  - [Online-Curriculums](#Online-Curriculums)
   - [Tools](#Tools)
   - [Youtube-Channels](#Youtube-Channels)
   - [Mixed-Content](#Mixed-Content)
@@ -312,50 +306,8 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 <hr>
 
-# React
-
-### Articles
-
-* [How to learn React - The Effective way ](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
-* [5 Packages Every React Developer Must Know](https://javascript.plainenglish.io/5-packages-every-react-developer-must-know-e06bf1b96514)
-* [Ultimate ReactJS Resources 🛠For Web Developers 2021👨‍💻 ](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)
-* [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
-* [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
-* [Some Features Every React Developer Should Know](https://medium.com/nerd-for-tech/some-features-every-react-developer-should-know-f960117464e8)
-
-### Tools
-
-* [Create React App](https://create-react-app.dev/)
-* [React Starter Projects](https://www.javascriptstuff.com/react-starter-projects/)
-* [React Dev-Tools](https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html)
-* [React Redux](https://redux.js.org/)
-* [Storybook](https://storybook.js.org/)
-* [React.js cheatsheet](https://devhints.io/react)
-* [evergreen](https://evergreen.segment.com/)
-* [React Styleguidist](https://react-styleguidist.js.org/)
-* [React Testing Library](https://testing-library.com/docs/react-testing-library/example-intro/)
-* [REACTIDE](https://reactide.io/)
-* [React Cosmos](https://reactcosmos.org/)
-* [React Proto](https://react-proto.github.io/react-proto/)
-* [React Hot Loader](https://gaearon.github.io/react-hot-loader/)
-* [React Hook Form](https://react-hook-form.com/)
-* [React Bits](https://vasanthk.gitbooks.io/react-bits/content/)
-* [React Bootstrap](https://react-bootstrap.github.io/)
-
-<hr>
-
 # Other-Content
 
-### Algorithm-Challenges
-
-* [CodeWars](https://www.codewars.com)
-* [HackerRank](https://www.hackerrank.com)
-* [coderbyte](https://coderbyte.com/)
-* [exercism.io](https://exercism.io)
-* [AlgoExpert](https://www.algoexpert.io)
-* [HackerEarth Codemonk](https://www.hackerearth.com/practice/codemonk/)
-* [LeetCode](https://leetcode.com/)
-* [edabit](https://edabit.com/)
 ### Articles
 
 * [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
@@ -393,110 +345,6 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Frontend Mentor.io](https://www.frontendmentor.io)
 * [DevProjects by codementor.io](https://www.codementor.io/projects)
 
-### Interactive-Games
-
-* [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)
-* [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)
-* [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
-* [Flexbox Froggy](https://flexboxfroggy.com/)
-* [Flexbox Defense](http://www.flexboxdefense.com/)
-* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
-* [CSS Grid Garden](https://cssgridgarden.com/)
-* [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
-* [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
-* [CSS Grid Critters ](https://gridcritters.com/)
-* [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
-* [CSS Animations](https://css-animations.io/)
-* [CSS Rules](https://katydecorah.com/css-ruler/)
-* [CSS Filter Blend](https://ilyashubin.github.io/FilterBlend/)
-* [CSS Battle](https://cssbattle.dev/)
-* [CSS Diner](https://flukeout.github.io/)
-* [TypeScript Exercises](https://typescript-exercises.github.io/)
-* [React Tutorial](https://react-tutorial.app/)
-* [Elevator Saga - JavaScript](https://play.elevatorsaga.com/)
-* [Screeps - JavaScript](https://screeps.com/)
-* [Untrusted - JavaScript](https://alexnisnevich.github.io/untrusted/)
-* [PromiSEES - Javascript](https://bevacqua.github.io/promisees/)
-* [JSchallenger](https://www.jschallenger.com/)
-* [JSRobot](https://lab.reaal.me/jsrobot/)
-* [Service Workies (PWAs)](https://serviceworkies.com/)
-* [Learn Git Branching](https://learngitbranching.js.org/)
-* [Select Star SQL](https://selectstarsql.com/)
-* [SQL Police Department](https://sqlpd.com/)
-* [SQLBolt](https://sqlbolt.com/)
-* [Regex Crossword](https://regexcrossword.com/)
-* [Regex101](https://regex101.com/)
-* [RegexOne](https://regexone.com/)
-* [CodinGame](https://www.codingame.com/start)
-* [OpenVim](https://www.openvim.com/)
-* [Jamstack Attack](https://jamstack-attack.herokuapp.com/)
-
-### Interview Practices
-
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-* [mission-peace interview](https://github.com/mission-peace/interview)
-* [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-* [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
-* [123 Essential JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
-* [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
-* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions/blob/master/README.md)
-* [Tech Interview Handbook](https://techinterviewhandbook.org/)
-* [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
-* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-#### System Design
-* [Front End Engineer](https://www.youtube.com/c/FrontEndEngineer)
-
-### Newsletters
-
-* [STACKR News](https://newsletter.codestackr.com/)
-* [newsletter by Kevin Powell](https://www.kevinpowell.co/newsletter/)
-* [flaviocopes newsletter](https://flaviocopes.com/page/newsletter/)
-* [CSS-Tricks Newsletter](https://css-tricks.com/newsletters/)
-* [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
-* [ModernCSS by Stephanie Eckles](https://moderncss.dev/newsletter/)
-* [Stefan's Web Weekly](https://www.stefanjudis.com/newsletter/)
-* [JavaScript Weekly](https://javascriptweekly.com/)
-* [Web Tools Weekly](https://webtoolsweekly.com/)
-* [Frontend Focus](https://frontendfoc.us/)
-* [CSS Animation Weekly](http://weekly.cssanimation.rocks/)
-* [Dev Tips](https://umaar.com/dev-tips/)
-* [cssweekly](https://css-weekly.com/)
-### Reddit-Subreddits
-
-* [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
-* [programming](https://www.reddit.com/r/programming/)
-* [AskComputerScience](https://www.reddit.com/r/AskComputerScience/)
-* [iOS Programming](https://www.reddit.com/r/iOSProgramming/)
-* [Learn Javascript](https://www.reddit.com/r/learnjavascript/)
-* [Computer Science](https://www.reddit.com/r/computerscience/)
-* [web_design](https://www.reddit.com/r/web_design/)
-* [coding](https://www.reddit.com/r/coding/)
-* [learn programming](https://www.reddit.com/r/learnprogramming/)
-* [javascript](https://www.reddit.com/r/javascript/)
-* [AskProgramming](https://www.reddit.com/r/AskProgramming/)
-* [webdev: reddit for web developers](https://www.reddit.com/r/webdev/)
-* [HyperText Markup Language](https://www.reddit.com/r/HTML/)
-* [HTML5 & Friends](https://www.reddit.com/r/html5/)
-* [Bringing the web out of 2007 since 2013.](https://www.reddit.com/r/Frontend/)
-* [Cascading Style Sheets](https://www.reddit.com/r/css/)
-* [Official announcements pertaining to reddit custom CSS](https://www.reddit.com/r/cssnews/)
-* [ProCSS](https://www.reddit.com/r/ProCSS/)
-* [css_irl](https://www.reddit.com/r/css_irl/)
-* [Help for reddit's CSS](https://www.reddit.com/r/csshelp/)
-* [Sass - a language for building awesome CSS](https://www.reddit.com/r/Sass/)
-### Roadmaps
-
-* [Web Skills Roadmap](https://andreasbm.github.io/web-skills/)
-* [Step by step guide to becoming a modern frontend developer by roadmap.sh](https://roadmap.sh/frontend)
-* [The Front-End Developer Learning Roadmap by FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/)
-* [How to Learn Javsascript 2021](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)
-* [React advanced education](https://www.mindmeister.com/1982032240?t=INxEXrxj1w)
-### Online-Curriculums
-
-* [freeCodeCamp](https://www.freecodecamp.org/)
-* [The Odin Project](https://www.theodinproject.com)
-* [Web Dev for Beginners - Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
-
 ### Tools
 
 * [daily.dev browser extension](https://daily.dev/)
@@ -504,35 +352,6 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Netlify](https://www.netlify.com/)
 * [WakaTime](https://wakatime.com)
 * [carbon](https://carbon.now.sh/)
-
-
-### Youtube-Channels
-
-* [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-* [Kevin Powell](https://www.youtube.com/user/KepowOb)
-* [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
-* [DesignCourse](https://www.youtube.com/user/DesignCourse)
-* [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
-* [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
-* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-* [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
-* [Adam Argyle](https://www.youtube.com/c/AdamArgyleInk)
-* [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
-* [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
-* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-* [Dorian Develops](https://www.youtube.com/channel/UCUOMtzQmEmhIAF8G_cha_Xw)
-* [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ)
-* [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
-* [Kenny Gunderman](https://www.youtube.com/channel/UCkCJ0zLrSg7VudR97g-FNVQ)
-* [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
-* [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
-* [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
-* [Codevolution](https://www.youtube.com/c/Codevolution/featured)
-* [Devslopes](https://www.youtube.com/channel/UClLXKYEEM8OBBx85DOa6-cg)
-* [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-* [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-* [JSConf](https://www.youtube.com/c/JSConfEU)
 
 
 ### Mixed-Content
