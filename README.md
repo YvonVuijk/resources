@@ -191,6 +191,7 @@ This is a collection of some (awesome) resources, mostly focused on UX Design, f
 * [Git from Beginner to Advanced by MadeByMike](https://www.madebymike.com.au/writing/how-to-git/)
 * [Advanced Git Tutorials by Bitbucket](https://www.atlassian.com/git/tutorials/advanced-overview)
 * [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
+* [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)
 
 <hr>
 
@@ -309,6 +310,7 @@ This is a collection of some (awesome) resources, mostly focused on UX Design, f
 * [web.dev](https://web.dev/)
 * [tutorialzine](https://tutorialzine.com/)
 * [30 Seconds of Code](https://www.30secondsofcode.org/)
+* [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)
 * [Awesome Free Developer Resources by codeSTACKr](https://github.com/codeSTACKr/free-developer-resources)
 * [Design Resources by Brad Traversy & Csaba Kissi](https://designresources.dev/)
 * [Front End Web Development Resources by Ritik Patni](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
